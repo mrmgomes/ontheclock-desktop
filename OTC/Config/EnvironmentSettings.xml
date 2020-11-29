@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <database>
+    <url>YOUR_DATABASE_CONNECTION_STRING</url>
+    <name>YOUR_DATABASE_NAME</name>
+    <punches_table_name>punches</punches_table_name>
+    <staff_table_name>staff</staff_table_name>
+    <users_table_name>users</users_table_name>
+  </database>
+</Settings>
